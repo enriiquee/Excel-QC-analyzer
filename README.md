@@ -15,7 +15,7 @@ This script is a simple GUI application to process Excel files with specific for
 
 
 ## Usage
-1. Run the script using the command: `python excel_processor.py`.
+1. Run the script using the command: `Excel_QC_processor.py`.
 2. The application window will open. Click on the "Examinar" button to select the input Excel file.
 3. Once the input file is selected, click on the "Run" button to start the processing.
 4. The progress bar will show the progress of the processing, and a message will be displayed upon completion.
